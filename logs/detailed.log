@@ -1,0 +1,214 @@
+2025-06-30 22:11:55 - INFO - 🚀 MOONSHOT AUTOMATION SYSTEM
+2025-06-30 22:11:55 - INFO - ==================================================
+2025-06-30 22:11:55 - INFO - 📁 Logs will be saved to: /Users/baymak/Desktop/mshot6/moonshot_automation/logs
+2025-06-30 22:11:55 - INFO - 
+🔧 Starting services...
+2025-06-30 22:11:55 - INFO - [Twitter Bot] ✅ Started: Twitter Bot
+2025-06-30 22:11:56 - INFO - [Queue Worker] ✅ Started: Queue Worker
+2025-06-30 22:11:57 - INFO - [Photo Sync] ✅ Started: Photo Sync
+2025-06-30 22:11:58 - INFO - [Supabase Listener] ✅ Started: Supabase Listener
+2025-06-30 22:11:59 - INFO - 
+✅ All 4 services started successfully!
+2025-06-30 22:11:59 - INFO - 
+📊 Monitoring all services... (Press Ctrl+C to stop all)
+
+2025-06-30 22:12:21 - INFO - 
+🛑 Stopping all services...
+2025-06-30 22:12:21 - INFO - [Twitter Bot] ⏹️  Stopped: Twitter Bot
+2025-06-30 22:12:21 - INFO - [Queue Worker] ⏹️  Stopped: Queue Worker
+2025-06-30 22:12:21 - INFO - [Photo Sync] ⏹️  Stopped: Photo Sync
+2025-06-30 22:12:21 - INFO - [Supabase Listener] ⏹️  Stopped: Supabase Listener
+2025-06-30 22:12:21 - INFO - ✅ All services stopped
+2025-06-30 22:12:21 - INFO - 
+📊 SESSION SUMMARY
+2025-06-30 22:12:21 - INFO - ==================================================
+2025-06-30 22:12:21 - INFO - Log files created in: /Users/baymak/Desktop/mshot6/moonshot_automation/logs
+2025-06-30 22:12:21 - INFO - - master.log: Important events only
+2025-06-30 22:12:21 - INFO - - detailed.log: All debug information
+2025-06-30 22:12:21 - INFO - - events.json: Structured event data
+2025-06-30 22:12:21 - INFO - - [service_name].log: Individual service logs
+2025-06-30 22:13:37 - INFO - 🚀 MOONSHOT AUTOMATION SYSTEM
+2025-06-30 22:13:37 - INFO - ==================================================
+2025-06-30 22:13:37 - INFO - 📁 Logs will be saved to: /Users/baymak/Desktop/mshot6/moonshot_automation/logs
+2025-06-30 22:13:37 - INFO - 
+🔧 Starting services...
+2025-06-30 22:13:37 - INFO - [Twitter Bot] ✅ Started: Twitter Bot
+2025-06-30 22:13:38 - INFO - [Queue Worker] ✅ Started: Queue Worker
+2025-06-30 22:13:39 - INFO - [Photo Sync] ✅ Started: Photo Sync
+2025-06-30 22:13:40 - INFO - [Supabase Listener] ✅ Started: Supabase Listener
+2025-06-30 22:13:41 - INFO - 
+✅ All 4 services started successfully!
+2025-06-30 22:13:41 - INFO - 
+📊 Monitoring all services... (Press Ctrl+C to stop all)
+
+2025-06-30 22:14:34 - INFO - 
+🛑 Stopping all services...
+2025-06-30 22:14:34 - INFO - [Twitter Bot] ⏹️  Stopped: Twitter Bot
+2025-06-30 22:14:34 - INFO - [Queue Worker] ⏹️  Stopped: Queue Worker
+2025-06-30 22:14:34 - INFO - [Photo Sync] ⏹️  Stopped: Photo Sync
+2025-06-30 22:14:34 - INFO - [Supabase Listener] ⏹️  Stopped: Supabase Listener
+2025-06-30 22:14:35 - INFO - ✅ All services stopped
+2025-06-30 22:14:35 - INFO - 
+📊 SESSION SUMMARY
+2025-06-30 22:14:35 - INFO - ==================================================
+2025-06-30 22:14:35 - INFO - Log files created in: /Users/baymak/Desktop/mshot6/moonshot_automation/logs
+2025-06-30 22:14:35 - INFO - - master.log: Important events only
+2025-06-30 22:14:35 - INFO - - detailed.log: All debug information
+2025-06-30 22:14:35 - INFO - - events.json: Structured event data
+2025-06-30 22:14:35 - INFO - - [service_name].log: Individual service logs
+2025-06-30 22:17:54 - INFO - 🚀 MOONSHOT AUTOMATION SYSTEM
+2025-06-30 22:17:54 - INFO - ==================================================
+2025-06-30 22:17:54 - INFO - 📁 Logs will be saved to: /Users/baymak/Desktop/mshot6/moonshot_automation/logs
+2025-06-30 22:17:54 - INFO - 
+🔧 Starting services...
+2025-06-30 22:17:54 - INFO - [Twitter Bot] ✅ Started: Twitter Bot
+2025-06-30 22:17:55 - INFO - [Queue Worker] ✅ Started: Queue Worker
+2025-06-30 22:17:56 - INFO - [Photo Sync] ✅ Started: Photo Sync
+2025-06-30 22:17:57 - INFO - [Supabase Listener] ✅ Started: Supabase Listener
+2025-06-30 22:17:58 - INFO - 
+✅ All 4 services started successfully!
+2025-06-30 22:17:58 - INFO - 
+📊 Monitoring all services... (Press Ctrl+C to stop all)
+
+2025-06-30 22:18:42 - INFO - [Supabase Listener] [EVENT] new_coin_detected: 🆕 Found 1 new coin(s) to process
+2025-06-30 22:18:42 - INFO - [Supabase Listener] [EVENT] automation_start: 🔄 Processing coin: Filter Coffee (CALISAMK)
+2025-06-30 22:18:42 - DEBUG - [Supabase Listener] [EVENT] automation_countdown: ⏱️  Starting in 5 seconds... (Switch to Moonshot app!)
+2025-06-30 22:21:27 - INFO - 
+🛑 Stopping all services...
+2025-06-30 22:21:27 - INFO - [Twitter Bot] ⏹️  Stopped: Twitter Bot
+2025-06-30 22:21:27 - INFO - [Queue Worker] ⏹️  Stopped: Queue Worker
+2025-06-30 22:21:27 - INFO - [Photo Sync] ⏹️  Stopped: Photo Sync
+2025-06-30 22:21:27 - INFO - [Supabase Listener] ⏹️  Stopped: Supabase Listener
+2025-06-30 22:21:27 - INFO - ✅ All services stopped
+2025-06-30 22:21:27 - INFO - 
+📊 SESSION SUMMARY
+2025-06-30 22:21:27 - INFO - ==================================================
+2025-06-30 22:21:27 - INFO - Log files created in: /Users/baymak/Desktop/mshot6/moonshot_automation/logs
+2025-06-30 22:21:27 - INFO - - master.log: Important events only
+2025-06-30 22:21:27 - INFO - - detailed.log: All debug information
+2025-06-30 22:21:27 - INFO - - events.json: Structured event data
+2025-06-30 22:21:27 - INFO - - [service_name].log: Individual service logs
+2025-06-30 22:27:08 - INFO - 🚀 MOONSHOT AUTOMATION SYSTEM
+2025-06-30 22:27:08 - INFO - ==================================================
+2025-06-30 22:27:08 - INFO - 📁 Logs will be saved to: /Users/baymak/Desktop/mshot6/moonshot_automation/logs
+2025-06-30 22:27:08 - INFO - 
+🔧 Starting services...
+2025-06-30 22:27:08 - INFO - [Twitter Bot] ✅ Started: Twitter Bot
+2025-06-30 22:27:09 - INFO - [Queue Worker] ✅ Started: Queue Worker
+2025-06-30 22:27:10 - INFO - [Photo Sync] ✅ Started: Photo Sync
+2025-06-30 22:27:11 - INFO - [Supabase Listener] ✅ Started: Supabase Listener
+2025-06-30 22:27:12 - INFO - 
+✅ All 4 services started successfully!
+2025-06-30 22:27:12 - INFO - 
+📊 Monitoring all services... (Press Ctrl+C to stop all)
+
+2025-06-30 22:29:10 - WARNING - [Twitter Bot] [EVENT] api_rate_limit: Rate limit exceeded. Sleeping for 130 seconds.
+2025-06-30 22:29:58 - INFO - 
+🛑 Stopping all services...
+2025-06-30 22:29:58 - INFO - [Twitter Bot] ⏹️  Stopped: Twitter Bot
+2025-06-30 22:29:58 - INFO - [Queue Worker] ⏹️  Stopped: Queue Worker
+2025-06-30 22:29:58 - INFO - [Photo Sync] ⏹️  Stopped: Photo Sync
+2025-06-30 22:29:58 - INFO - [Supabase Listener] ⏹️  Stopped: Supabase Listener
+2025-06-30 22:29:58 - INFO - ✅ All services stopped
+2025-06-30 22:29:58 - INFO - 
+📊 SESSION SUMMARY
+2025-06-30 22:29:58 - INFO - ==================================================
+2025-06-30 22:29:58 - INFO - Log files created in: /Users/baymak/Desktop/mshot6/moonshot_automation/logs
+2025-06-30 22:29:58 - INFO - - master.log: Important events only
+2025-06-30 22:29:58 - INFO - - detailed.log: All debug information
+2025-06-30 22:29:58 - INFO - - events.json: Structured event data
+2025-06-30 22:29:58 - INFO - - [service_name].log: Individual service logs
+2025-06-30 22:41:30 - INFO - 🚀 MOONSHOT AUTOMATION SYSTEM
+2025-06-30 22:41:30 - INFO - ==================================================
+2025-06-30 22:41:30 - INFO - 📁 Logs will be saved to: /Users/baymak/Desktop/mshot6/moonshot_automation/logs
+2025-06-30 22:41:30 - INFO - 
+🔧 Starting services...
+2025-06-30 22:41:30 - INFO - [Twitter Bot] ✅ Started: Twitter Bot
+2025-06-30 22:41:31 - INFO - [Queue Worker] ✅ Started: Queue Worker
+2025-06-30 22:41:32 - INFO - [Photo Sync] ✅ Started: Photo Sync
+2025-06-30 22:41:33 - INFO - [Supabase Listener] ✅ Started: Supabase Listener
+2025-06-30 22:41:34 - INFO - 
+✅ All 4 services started successfully!
+2025-06-30 22:41:34 - INFO - 
+📊 Monitoring all services... (Press Ctrl+C to stop all)
+
+2025-06-30 22:41:47 - INFO - [Supabase Listener] [EVENT] new_coin_detected: 🆕 Found 1 new coin(s) to process
+2025-06-30 22:41:48 - INFO - [Supabase Listener] [EVENT] automation_start: 🔄 Processing coin: Filter Coffee (TESTTTT)
+2025-06-30 22:41:48 - DEBUG - [Supabase Listener] [EVENT] automation_countdown: ⏱️  Starting in 5 seconds... (Switch to Moonshot app!)
+2025-06-30 22:43:40 - INFO - [Supabase Listener] [EVENT] automation_success: ✅ Successfully processed: Filter Coffee
+2025-06-30 22:43:40 - INFO - [Supabase Listener] [EVENT] new_coin_detected: 🆕 Found 1 new coin(s) to process
+2025-06-30 22:43:40 - INFO - [Supabase Listener] [EVENT] automation_start: 🔄 Processing coin: Filter Coffee (BBBGHG)
+2025-06-30 22:43:40 - DEBUG - [Supabase Listener] [EVENT] automation_countdown: ⏱️  Starting in 5 seconds... (Switch to Moonshot app!)
+2025-06-30 22:45:25 - WARNING - [Twitter Bot] [EVENT] api_rate_limit: Rate limit exceeded. Sleeping for 77 seconds.
+2025-06-30 22:45:30 - INFO - [Supabase Listener] [EVENT] automation_success: ✅ Successfully processed: Filter Coffee
+2025-06-30 22:45:30 - INFO - [Supabase Listener] [EVENT] new_coin_detected: 🆕 Found 1 new coin(s) to process
+2025-06-30 22:45:30 - INFO - [Supabase Listener] [EVENT] automation_start: 🔄 Processing coin: Filter Coffee (TDEFRGD)
+2025-06-30 22:45:30 - DEBUG - [Supabase Listener] [EVENT] automation_countdown: ⏱️  Starting in 5 seconds... (Switch to Moonshot app!)
+2025-06-30 22:47:20 - INFO - [Supabase Listener] [EVENT] automation_success: ✅ Successfully processed: Filter Coffee
+2025-06-30 22:47:20 - INFO - [Supabase Listener] [EVENT] new_coin_detected: 🆕 Found 1 new coin(s) to process
+2025-06-30 22:47:20 - INFO - [Supabase Listener] [EVENT] automation_start: 🔄 Processing coin: Ozan Güzel (OZAN)
+2025-06-30 22:47:21 - DEBUG - [Supabase Listener] [EVENT] automation_countdown: ⏱️  Starting in 5 seconds... (Switch to Moonshot app!)
+2025-06-30 22:52:11 - INFO - [Supabase Listener] [EVENT] automation_success: ✅ Successfully processed: Ozan Güzel
+2025-06-30 22:52:11 - INFO - [Supabase Listener] [EVENT] new_coin_detected: 🆕 Found 1 new coin(s) to process
+2025-06-30 22:52:11 - INFO - [Supabase Listener] [EVENT] automation_start: 🔄 Processing coin: Filter Coffee (OLALA)
+2025-06-30 22:52:11 - DEBUG - [Supabase Listener] [EVENT] automation_countdown: ⏱️  Starting in 5 seconds... (Switch to Moonshot app!)
+2025-06-30 22:52:28 - INFO - 
+🛑 Stopping all services...
+2025-06-30 22:52:28 - INFO - [Twitter Bot] ⏹️  Stopped: Twitter Bot
+2025-06-30 22:52:28 - INFO - [Queue Worker] ⏹️  Stopped: Queue Worker
+2025-06-30 22:52:28 - INFO - [Photo Sync] ⏹️  Stopped: Photo Sync
+2025-06-30 22:52:28 - INFO - [Supabase Listener] ⏹️  Stopped: Supabase Listener
+2025-06-30 22:52:28 - INFO - ✅ All services stopped
+2025-06-30 22:52:28 - INFO - 
+📊 SESSION SUMMARY
+2025-06-30 22:52:28 - INFO - ==================================================
+2025-06-30 22:52:28 - INFO - Log files created in: /Users/baymak/Desktop/mshot6/moonshot_automation/logs
+2025-06-30 22:52:28 - INFO - - master.log: Important events only
+2025-06-30 22:52:28 - INFO - - detailed.log: All debug information
+2025-06-30 22:52:28 - INFO - - events.json: Structured event data
+2025-06-30 22:52:28 - INFO - - [service_name].log: Individual service logs
+2025-06-30 23:58:50 - INFO - 🚀 MOONSHOT AUTOMATION SYSTEM
+2025-06-30 23:58:50 - INFO - ==================================================
+2025-06-30 23:58:50 - INFO - 📁 Logs will be saved to: /Users/baymak/Desktop/mshot6/moonshot_automation/logs
+2025-06-30 23:58:50 - INFO - 
+🔧 Starting services...
+2025-06-30 23:58:50 - INFO - [Twitter Bot] ✅ Started: Twitter Bot
+2025-06-30 23:58:51 - INFO - [Queue Worker] ✅ Started: Queue Worker
+2025-06-30 23:58:52 - INFO - [Photo Sync] ✅ Started: Photo Sync
+2025-06-30 23:58:53 - INFO - [Supabase Listener] ✅ Started: Supabase Listener
+2025-06-30 23:58:54 - INFO - 
+✅ All 4 services started successfully!
+2025-06-30 23:58:54 - INFO - 
+📊 Monitoring all services... (Press Ctrl+C to stop all)
+
+2025-07-01 00:00:40 - INFO - [Supabase Listener] [EVENT] new_coin_detected: 🆕 Found 1 new coin(s) to process
+2025-07-01 00:00:41 - INFO - [Supabase Listener] [EVENT] automation_start: 🔄 Processing coin: Filter Coffee (ASDASD)
+2025-07-01 00:00:41 - DEBUG - [Supabase Listener] [EVENT] automation_countdown: ⏱️  Starting in 5 seconds... (Switch to Moonshot app!)
+2025-07-01 00:02:59 - WARNING - [Twitter Bot] [EVENT] api_rate_limit: Rate limit exceeded. Sleeping for 21 seconds.
+2025-07-01 00:03:04 - INFO - [Supabase Listener] [EVENT] automation_success: ✅ Successfully processed: Filter Coffee
+2025-07-01 00:03:04 - INFO - [Supabase Listener] [EVENT] new_coin_detected: 🆕 Found 1 new coin(s) to process
+2025-07-01 00:03:04 - INFO - [Supabase Listener] [EVENT] automation_start: 🔄 Processing coin: Filter Coffee (ASDASD)
+2025-07-01 00:03:04 - DEBUG - [Supabase Listener] [EVENT] automation_countdown: ⏱️  Starting in 5 seconds... (Switch to Moonshot app!)
+2025-07-01 00:04:54 - INFO - [Supabase Listener] [EVENT] automation_success: ✅ Successfully processed: Filter Coffee
+2025-07-01 00:04:54 - INFO - [Supabase Listener] [EVENT] new_coin_detected: 🆕 Found 1 new coin(s) to process
+2025-07-01 00:04:54 - INFO - [Supabase Listener] [EVENT] automation_start: 🔄 Processing coin: Filter Coffee (HGDFG)
+2025-07-01 00:04:54 - DEBUG - [Supabase Listener] [EVENT] automation_countdown: ⏱️  Starting in 5 seconds... (Switch to Moonshot app!)
+2025-07-01 00:06:44 - INFO - [Supabase Listener] [EVENT] automation_success: ✅ Successfully processed: Filter Coffee
+2025-07-01 00:06:44 - INFO - [Supabase Listener] [EVENT] new_coin_detected: 🆕 Found 1 new coin(s) to process
+2025-07-01 00:06:45 - INFO - [Supabase Listener] [EVENT] automation_start: 🔄 Processing coin: Filter Coffee (DFGGGGG)
+2025-07-01 00:06:45 - DEBUG - [Supabase Listener] [EVENT] automation_countdown: ⏱️  Starting in 5 seconds... (Switch to Moonshot app!)
+2025-07-01 00:07:32 - INFO - 
+🛑 Stopping all services...
+2025-07-01 00:07:32 - INFO - [Twitter Bot] ⏹️  Stopped: Twitter Bot
+2025-07-01 00:07:32 - INFO - [Queue Worker] ⏹️  Stopped: Queue Worker
+2025-07-01 00:07:32 - INFO - [Photo Sync] ⏹️  Stopped: Photo Sync
+2025-07-01 00:07:32 - INFO - [Supabase Listener] ⏹️  Stopped: Supabase Listener
+2025-07-01 00:07:32 - INFO - ✅ All services stopped
+2025-07-01 00:07:32 - INFO - 
+📊 SESSION SUMMARY
+2025-07-01 00:07:32 - INFO - ==================================================
+2025-07-01 00:07:32 - INFO - Log files created in: /Users/baymak/Desktop/mshot6/moonshot_automation/logs
+2025-07-01 00:07:32 - INFO - - master.log: Important events only
+2025-07-01 00:07:32 - INFO - - detailed.log: All debug information
+2025-07-01 00:07:32 - INFO - - events.json: Structured event data
+2025-07-01 00:07:32 - INFO - - [service_name].log: Individual service logs

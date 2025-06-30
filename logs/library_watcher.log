@@ -1,0 +1,22 @@
+[2025-06-29 07:04:51] Using coordinates file: /Users/baymak/Desktop/mshot6/moonshot_automation/data/moonshot_coordinates_20250629_053615.json
+[2025-06-29 07:04:51] 🚀 Starting Photos Library Watcher
+[2025-06-29 07:04:51] 👁️  Monitoring for new images...
+[2025-06-29 07:11:09] 🖼️  New image detected for: mooning
+[2025-06-29 07:11:09] 🔄 Processing coin: mooning (mooning)
+[2025-06-29 07:12:20] ✅ Successfully processed: mooning
+[2025-06-29 07:14:32] 🖼️  New image detected for: ansem
+[2025-06-29 07:14:32] 🔄 Processing coin: ANS (ansem)
+[2025-06-29 07:15:43] ✅ Successfully processed: ANS
+[2025-06-29 07:17:55] 🖼️  New image detected for: mns
+[2025-06-29 07:17:55] 🔄 Processing coin: moonss (mns)
+[2025-06-29 07:18:07] 👋 Stopping watcher...
+[2025-06-29 07:21:51] Using coordinates file: /Users/baymak/Desktop/mshot6/moonshot_automation/data/moonshot_coordinates_20250629_053615.json
+[2025-06-29 07:21:51] 🚀 Starting Photos Library Watcher
+[2025-06-29 07:21:51] 👁️  Monitoring for new images...
+[2025-06-29 07:23:43] 🖼️  New image detected for: eeeee
+[2025-06-29 07:23:43] 🔄 Processing coin: asd (eeeee)
+[2025-06-29 07:24:57] ✅ Successfully processed: asd
+[2025-06-29 07:26:08] 🖼️  New image detected for: fsdfsd
+[2025-06-29 07:26:08] 🔄 Processing coin: www (fsdfsd)
+[2025-06-29 07:27:22] ✅ Successfully processed: www
+[2025-06-29 07:27:40] 👋 Stopping watcher...

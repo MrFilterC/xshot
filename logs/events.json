@@ -1,0 +1,320 @@
+🚀 MOONSHOT AUTOMATION SYSTEM
+==================================================
+📁 Logs will be saved to: /Users/baymak/Desktop/mshot6/moonshot_automation/logs
+
+🔧 Starting services...
+[Twitter Bot] ✅ Started: Twitter Bot
+{"timestamp": "2025-06-30 22:11:55", "level": "INFO", "message": "✅ Started: Twitter Bot", "service": "Twitter Bot", "data": {"pid": 14966, "command": "python3 scripts/services/twitter_bot.py"}}
+[Queue Worker] ✅ Started: Queue Worker
+{"timestamp": "2025-06-30 22:11:56", "level": "INFO", "message": "✅ Started: Queue Worker", "service": "Queue Worker", "data": {"pid": 14967, "command": "python3 scripts/services/queue_worker.py"}}
+[Photo Sync] ✅ Started: Photo Sync
+{"timestamp": "2025-06-30 22:11:57", "level": "INFO", "message": "✅ Started: Photo Sync", "service": "Photo Sync", "data": {"pid": 14971, "command": "python3 scripts/services/auto_photo_sync.py"}}
+[Supabase Listener] ✅ Started: Supabase Listener
+{"timestamp": "2025-06-30 22:11:58", "level": "INFO", "message": "✅ Started: Supabase Listener", "service": "Supabase Listener", "data": {"pid": 14974, "command": "python3 scripts/automation/supabase_listener_polling.py"}}
+
+✅ All 4 services started successfully!
+{"timestamp": "2025-06-30 22:11:59", "level": "INFO", "message": "\n✅ All 4 services started successfully!", "service": null, "data": {"services_started": 4}}
+
+📊 Monitoring all services... (Press Ctrl+C to stop all)
+
+
+🛑 Stopping all services...
+{"timestamp": "2025-06-30 22:12:21", "level": "INFO", "message": "\n🛑 Stopping all services...", "service": null, "data": {"reason": "user_interrupt"}}
+[Twitter Bot] ⏹️  Stopped: Twitter Bot
+{"timestamp": "2025-06-30 22:12:21", "level": "INFO", "message": "⏹️  Stopped: Twitter Bot", "service": "Twitter Bot", "data": {"pid": 14966}}
+[Queue Worker] ⏹️  Stopped: Queue Worker
+{"timestamp": "2025-06-30 22:12:21", "level": "INFO", "message": "⏹️  Stopped: Queue Worker", "service": "Queue Worker", "data": {"pid": 14967}}
+[Photo Sync] ⏹️  Stopped: Photo Sync
+{"timestamp": "2025-06-30 22:12:21", "level": "INFO", "message": "⏹️  Stopped: Photo Sync", "service": "Photo Sync", "data": {"pid": 14971}}
+[Supabase Listener] ⏹️  Stopped: Supabase Listener
+{"timestamp": "2025-06-30 22:12:21", "level": "INFO", "message": "⏹️  Stopped: Supabase Listener", "service": "Supabase Listener", "data": {"pid": 14974}}
+✅ All services stopped
+{"timestamp": "2025-06-30 22:12:21", "level": "INFO", "message": "✅ All services stopped", "service": null, "data": {"total_services": 4}}
+
+📊 SESSION SUMMARY
+==================================================
+Log files created in: /Users/baymak/Desktop/mshot6/moonshot_automation/logs
+- master.log: Important events only
+- detailed.log: All debug information
+- events.json: Structured event data
+- [service_name].log: Individual service logs
+🚀 MOONSHOT AUTOMATION SYSTEM
+==================================================
+📁 Logs will be saved to: /Users/baymak/Desktop/mshot6/moonshot_automation/logs
+
+🔧 Starting services...
+[Twitter Bot] ✅ Started: Twitter Bot
+{"timestamp": "2025-06-30 22:13:37", "level": "INFO", "message": "✅ Started: Twitter Bot", "service": "Twitter Bot", "data": {"pid": 15033, "command": "python3 scripts/services/twitter_bot.py"}}
+[Queue Worker] ✅ Started: Queue Worker
+{"timestamp": "2025-06-30 22:13:38", "level": "INFO", "message": "✅ Started: Queue Worker", "service": "Queue Worker", "data": {"pid": 15035, "command": "python3 scripts/services/queue_worker.py"}}
+[Photo Sync] ✅ Started: Photo Sync
+{"timestamp": "2025-06-30 22:13:39", "level": "INFO", "message": "✅ Started: Photo Sync", "service": "Photo Sync", "data": {"pid": 15037, "command": "python3 scripts/services/auto_photo_sync.py"}}
+[Supabase Listener] ✅ Started: Supabase Listener
+{"timestamp": "2025-06-30 22:13:40", "level": "INFO", "message": "✅ Started: Supabase Listener", "service": "Supabase Listener", "data": {"pid": 15038, "command": "python3 scripts/automation/supabase_listener_polling.py"}}
+
+✅ All 4 services started successfully!
+{"timestamp": "2025-06-30 22:13:41", "level": "INFO", "message": "\n✅ All 4 services started successfully!", "service": null, "data": {"services_started": 4}}
+
+📊 Monitoring all services... (Press Ctrl+C to stop all)
+
+
+🛑 Stopping all services...
+{"timestamp": "2025-06-30 22:14:34", "level": "INFO", "message": "\n🛑 Stopping all services...", "service": null, "data": {"reason": "user_interrupt"}}
+[Twitter Bot] ⏹️  Stopped: Twitter Bot
+{"timestamp": "2025-06-30 22:14:34", "level": "INFO", "message": "⏹️  Stopped: Twitter Bot", "service": "Twitter Bot", "data": {"pid": 15033}}
+[Queue Worker] ⏹️  Stopped: Queue Worker
+{"timestamp": "2025-06-30 22:14:34", "level": "INFO", "message": "⏹️  Stopped: Queue Worker", "service": "Queue Worker", "data": {"pid": 15035}}
+[Photo Sync] ⏹️  Stopped: Photo Sync
+{"timestamp": "2025-06-30 22:14:34", "level": "INFO", "message": "⏹️  Stopped: Photo Sync", "service": "Photo Sync", "data": {"pid": 15037}}
+[Supabase Listener] ⏹️  Stopped: Supabase Listener
+{"timestamp": "2025-06-30 22:14:34", "level": "INFO", "message": "⏹️  Stopped: Supabase Listener", "service": "Supabase Listener", "data": {"pid": 15038}}
+✅ All services stopped
+{"timestamp": "2025-06-30 22:14:35", "level": "INFO", "message": "✅ All services stopped", "service": null, "data": {"total_services": 4}}
+
+📊 SESSION SUMMARY
+==================================================
+Log files created in: /Users/baymak/Desktop/mshot6/moonshot_automation/logs
+- master.log: Important events only
+- detailed.log: All debug information
+- events.json: Structured event data
+- [service_name].log: Individual service logs
+🚀 MOONSHOT AUTOMATION SYSTEM
+==================================================
+📁 Logs will be saved to: /Users/baymak/Desktop/mshot6/moonshot_automation/logs
+
+🔧 Starting services...
+[Twitter Bot] ✅ Started: Twitter Bot
+{"timestamp": "2025-06-30 22:17:54", "level": "INFO", "message": "✅ Started: Twitter Bot", "service": "Twitter Bot", "data": {"pid": 15198, "command": "python3 scripts/services/twitter_bot.py"}}
+[Queue Worker] ✅ Started: Queue Worker
+{"timestamp": "2025-06-30 22:17:55", "level": "INFO", "message": "✅ Started: Queue Worker", "service": "Queue Worker", "data": {"pid": 15200, "command": "python3 scripts/services/queue_worker.py"}}
+[Photo Sync] ✅ Started: Photo Sync
+{"timestamp": "2025-06-30 22:17:56", "level": "INFO", "message": "✅ Started: Photo Sync", "service": "Photo Sync", "data": {"pid": 15201, "command": "python3 scripts/services/auto_photo_sync.py"}}
+[Supabase Listener] ✅ Started: Supabase Listener
+{"timestamp": "2025-06-30 22:17:57", "level": "INFO", "message": "✅ Started: Supabase Listener", "service": "Supabase Listener", "data": {"pid": 15202, "command": "python3 scripts/automation/supabase_listener_polling.py"}}
+
+✅ All 4 services started successfully!
+{"timestamp": "2025-06-30 22:17:58", "level": "INFO", "message": "\n✅ All 4 services started successfully!", "service": null, "data": {"services_started": 4}}
+
+📊 Monitoring all services... (Press Ctrl+C to stop all)
+
+[Supabase Listener] [EVENT] new_coin_detected: 🆕 Found 1 new coin(s) to process
+{"timestamp": "2025-06-30 22:18:42", "level": "INFO", "message": "[EVENT] new_coin_detected: 🆕 Found 1 new coin(s) to process", "service": "Supabase Listener", "data": {"raw_line": "🆕 Found 1 new coin(s) to process"}}
+[Supabase Listener] [EVENT] automation_start: 🔄 Processing coin: Filter Coffee (CALISAMK)
+{"timestamp": "2025-06-30 22:18:42", "level": "INFO", "message": "[EVENT] automation_start: 🔄 Processing coin: Filter Coffee (CALISAMK)", "service": "Supabase Listener", "data": {"raw_line": "🔄 Processing coin: Filter Coffee (CALISAMK)"}}
+[Supabase Listener] [EVENT] automation_countdown: ⏱️  Starting in 5 seconds... (Switch to Moonshot app!)
+{"timestamp": "2025-06-30 22:18:42", "level": "DEBUG", "message": "[EVENT] automation_countdown: ⏱️  Starting in 5 seconds... (Switch to Moonshot app!)", "service": "Supabase Listener", "data": {"raw_line": "⏱️  Starting in 5 seconds... (Switch to Moonshot app!)"}}
+
+🛑 Stopping all services...
+{"timestamp": "2025-06-30 22:21:27", "level": "INFO", "message": "\n🛑 Stopping all services...", "service": null, "data": {"reason": "user_interrupt"}}
+[Twitter Bot] ⏹️  Stopped: Twitter Bot
+{"timestamp": "2025-06-30 22:21:27", "level": "INFO", "message": "⏹️  Stopped: Twitter Bot", "service": "Twitter Bot", "data": {"pid": 15198}}
+[Queue Worker] ⏹️  Stopped: Queue Worker
+{"timestamp": "2025-06-30 22:21:27", "level": "INFO", "message": "⏹️  Stopped: Queue Worker", "service": "Queue Worker", "data": {"pid": 15200}}
+[Photo Sync] ⏹️  Stopped: Photo Sync
+{"timestamp": "2025-06-30 22:21:27", "level": "INFO", "message": "⏹️  Stopped: Photo Sync", "service": "Photo Sync", "data": {"pid": 15201}}
+[Supabase Listener] ⏹️  Stopped: Supabase Listener
+{"timestamp": "2025-06-30 22:21:27", "level": "INFO", "message": "⏹️  Stopped: Supabase Listener", "service": "Supabase Listener", "data": {"pid": 15202}}
+✅ All services stopped
+{"timestamp": "2025-06-30 22:21:27", "level": "INFO", "message": "✅ All services stopped", "service": null, "data": {"total_services": 4}}
+
+📊 SESSION SUMMARY
+==================================================
+Log files created in: /Users/baymak/Desktop/mshot6/moonshot_automation/logs
+- master.log: Important events only
+- detailed.log: All debug information
+- events.json: Structured event data
+- [service_name].log: Individual service logs
+🚀 MOONSHOT AUTOMATION SYSTEM
+==================================================
+📁 Logs will be saved to: /Users/baymak/Desktop/mshot6/moonshot_automation/logs
+
+🔧 Starting services...
+[Twitter Bot] ✅ Started: Twitter Bot
+{"timestamp": "2025-06-30 22:27:08", "level": "INFO", "message": "✅ Started: Twitter Bot", "service": "Twitter Bot", "data": {"pid": 15518, "command": "python3 scripts/services/twitter_bot.py"}}
+[Queue Worker] ✅ Started: Queue Worker
+{"timestamp": "2025-06-30 22:27:09", "level": "INFO", "message": "✅ Started: Queue Worker", "service": "Queue Worker", "data": {"pid": 15519, "command": "python3 scripts/services/queue_worker.py"}}
+[Photo Sync] ✅ Started: Photo Sync
+{"timestamp": "2025-06-30 22:27:10", "level": "INFO", "message": "✅ Started: Photo Sync", "service": "Photo Sync", "data": {"pid": 15521, "command": "python3 scripts/services/auto_photo_sync.py"}}
+[Supabase Listener] ✅ Started: Supabase Listener
+{"timestamp": "2025-06-30 22:27:11", "level": "INFO", "message": "✅ Started: Supabase Listener", "service": "Supabase Listener", "data": {"pid": 15524, "command": "python3 scripts/automation/supabase_listener_polling.py"}}
+
+✅ All 4 services started successfully!
+{"timestamp": "2025-06-30 22:27:12", "level": "INFO", "message": "\n✅ All 4 services started successfully!", "service": null, "data": {"services_started": 4}}
+
+📊 Monitoring all services... (Press Ctrl+C to stop all)
+
+[Twitter Bot] [EVENT] api_rate_limit: Rate limit exceeded. Sleeping for 130 seconds.
+{"timestamp": "2025-06-30 22:29:10", "level": "WARNING", "message": "[EVENT] api_rate_limit: Rate limit exceeded. Sleeping for 130 seconds.", "service": "Twitter Bot", "data": {"raw_line": "Rate limit exceeded. Sleeping for 130 seconds."}}
+
+🛑 Stopping all services...
+{"timestamp": "2025-06-30 22:29:58", "level": "INFO", "message": "\n🛑 Stopping all services...", "service": null, "data": {"reason": "user_interrupt"}}
+[Twitter Bot] ⏹️  Stopped: Twitter Bot
+{"timestamp": "2025-06-30 22:29:58", "level": "INFO", "message": "⏹️  Stopped: Twitter Bot", "service": "Twitter Bot", "data": {"pid": 15518}}
+[Queue Worker] ⏹️  Stopped: Queue Worker
+{"timestamp": "2025-06-30 22:29:58", "level": "INFO", "message": "⏹️  Stopped: Queue Worker", "service": "Queue Worker", "data": {"pid": 15519}}
+[Photo Sync] ⏹️  Stopped: Photo Sync
+{"timestamp": "2025-06-30 22:29:58", "level": "INFO", "message": "⏹️  Stopped: Photo Sync", "service": "Photo Sync", "data": {"pid": 15521}}
+[Supabase Listener] ⏹️  Stopped: Supabase Listener
+{"timestamp": "2025-06-30 22:29:58", "level": "INFO", "message": "⏹️  Stopped: Supabase Listener", "service": "Supabase Listener", "data": {"pid": 15524}}
+✅ All services stopped
+{"timestamp": "2025-06-30 22:29:58", "level": "INFO", "message": "✅ All services stopped", "service": null, "data": {"total_services": 4}}
+
+📊 SESSION SUMMARY
+==================================================
+Log files created in: /Users/baymak/Desktop/mshot6/moonshot_automation/logs
+- master.log: Important events only
+- detailed.log: All debug information
+- events.json: Structured event data
+- [service_name].log: Individual service logs
+🚀 MOONSHOT AUTOMATION SYSTEM
+==================================================
+📁 Logs will be saved to: /Users/baymak/Desktop/mshot6/moonshot_automation/logs
+
+🔧 Starting services...
+[Twitter Bot] ✅ Started: Twitter Bot
+{"timestamp": "2025-06-30 22:41:30", "level": "INFO", "message": "✅ Started: Twitter Bot", "service": "Twitter Bot", "data": {"pid": 16221, "command": "python3 scripts/services/twitter_bot.py"}}
+[Queue Worker] ✅ Started: Queue Worker
+{"timestamp": "2025-06-30 22:41:31", "level": "INFO", "message": "✅ Started: Queue Worker", "service": "Queue Worker", "data": {"pid": 16222, "command": "python3 scripts/services/queue_worker.py"}}
+[Photo Sync] ✅ Started: Photo Sync
+{"timestamp": "2025-06-30 22:41:32", "level": "INFO", "message": "✅ Started: Photo Sync", "service": "Photo Sync", "data": {"pid": 16224, "command": "python3 scripts/services/auto_photo_sync.py"}}
+[Supabase Listener] ✅ Started: Supabase Listener
+{"timestamp": "2025-06-30 22:41:33", "level": "INFO", "message": "✅ Started: Supabase Listener", "service": "Supabase Listener", "data": {"pid": 16227, "command": "python3 scripts/automation/supabase_listener_polling.py"}}
+
+✅ All 4 services started successfully!
+{"timestamp": "2025-06-30 22:41:34", "level": "INFO", "message": "\n✅ All 4 services started successfully!", "service": null, "data": {"services_started": 4}}
+
+📊 Monitoring all services... (Press Ctrl+C to stop all)
+
+[Supabase Listener] [EVENT] new_coin_detected: 🆕 Found 1 new coin(s) to process
+{"timestamp": "2025-06-30 22:41:47", "level": "INFO", "message": "[EVENT] new_coin_detected: 🆕 Found 1 new coin(s) to process", "service": "Supabase Listener", "data": {"raw_line": "🆕 Found 1 new coin(s) to process"}}
+[Supabase Listener] [EVENT] automation_start: 🔄 Processing coin: Filter Coffee (TESTTTT)
+{"timestamp": "2025-06-30 22:41:48", "level": "INFO", "message": "[EVENT] automation_start: 🔄 Processing coin: Filter Coffee (TESTTTT)", "service": "Supabase Listener", "data": {"raw_line": "🔄 Processing coin: Filter Coffee (TESTTTT)"}}
+[Supabase Listener] [EVENT] automation_countdown: ⏱️  Starting in 5 seconds... (Switch to Moonshot app!)
+{"timestamp": "2025-06-30 22:41:48", "level": "DEBUG", "message": "[EVENT] automation_countdown: ⏱️  Starting in 5 seconds... (Switch to Moonshot app!)", "service": "Supabase Listener", "data": {"raw_line": "⏱️  Starting in 5 seconds... (Switch to Moonshot app!)"}}
+[Supabase Listener] [EVENT] automation_success: ✅ Successfully processed: Filter Coffee
+{"timestamp": "2025-06-30 22:43:40", "level": "INFO", "message": "[EVENT] automation_success: ✅ Successfully processed: Filter Coffee", "service": "Supabase Listener", "data": {"raw_line": "✅ Successfully processed: Filter Coffee"}}
+[Supabase Listener] [EVENT] new_coin_detected: 🆕 Found 1 new coin(s) to process
+{"timestamp": "2025-06-30 22:43:40", "level": "INFO", "message": "[EVENT] new_coin_detected: 🆕 Found 1 new coin(s) to process", "service": "Supabase Listener", "data": {"raw_line": "🆕 Found 1 new coin(s) to process"}}
+[Supabase Listener] [EVENT] automation_start: 🔄 Processing coin: Filter Coffee (BBBGHG)
+{"timestamp": "2025-06-30 22:43:40", "level": "INFO", "message": "[EVENT] automation_start: 🔄 Processing coin: Filter Coffee (BBBGHG)", "service": "Supabase Listener", "data": {"raw_line": "🔄 Processing coin: Filter Coffee (BBBGHG)"}}
+[Supabase Listener] [EVENT] automation_countdown: ⏱️  Starting in 5 seconds... (Switch to Moonshot app!)
+{"timestamp": "2025-06-30 22:43:40", "level": "DEBUG", "message": "[EVENT] automation_countdown: ⏱️  Starting in 5 seconds... (Switch to Moonshot app!)", "service": "Supabase Listener", "data": {"raw_line": "⏱️  Starting in 5 seconds... (Switch to Moonshot app!)"}}
+[Twitter Bot] [EVENT] api_rate_limit: Rate limit exceeded. Sleeping for 77 seconds.
+{"timestamp": "2025-06-30 22:45:25", "level": "WARNING", "message": "[EVENT] api_rate_limit: Rate limit exceeded. Sleeping for 77 seconds.", "service": "Twitter Bot", "data": {"raw_line": "Rate limit exceeded. Sleeping for 77 seconds."}}
+[Supabase Listener] [EVENT] automation_success: ✅ Successfully processed: Filter Coffee
+{"timestamp": "2025-06-30 22:45:30", "level": "INFO", "message": "[EVENT] automation_success: ✅ Successfully processed: Filter Coffee", "service": "Supabase Listener", "data": {"raw_line": "✅ Successfully processed: Filter Coffee"}}
+[Supabase Listener] [EVENT] new_coin_detected: 🆕 Found 1 new coin(s) to process
+{"timestamp": "2025-06-30 22:45:30", "level": "INFO", "message": "[EVENT] new_coin_detected: 🆕 Found 1 new coin(s) to process", "service": "Supabase Listener", "data": {"raw_line": "🆕 Found 1 new coin(s) to process"}}
+[Supabase Listener] [EVENT] automation_start: 🔄 Processing coin: Filter Coffee (TDEFRGD)
+{"timestamp": "2025-06-30 22:45:30", "level": "INFO", "message": "[EVENT] automation_start: 🔄 Processing coin: Filter Coffee (TDEFRGD)", "service": "Supabase Listener", "data": {"raw_line": "🔄 Processing coin: Filter Coffee (TDEFRGD)"}}
+[Supabase Listener] [EVENT] automation_countdown: ⏱️  Starting in 5 seconds... (Switch to Moonshot app!)
+{"timestamp": "2025-06-30 22:45:30", "level": "DEBUG", "message": "[EVENT] automation_countdown: ⏱️  Starting in 5 seconds... (Switch to Moonshot app!)", "service": "Supabase Listener", "data": {"raw_line": "⏱️  Starting in 5 seconds... (Switch to Moonshot app!)"}}
+[Supabase Listener] [EVENT] automation_success: ✅ Successfully processed: Filter Coffee
+{"timestamp": "2025-06-30 22:47:20", "level": "INFO", "message": "[EVENT] automation_success: ✅ Successfully processed: Filter Coffee", "service": "Supabase Listener", "data": {"raw_line": "✅ Successfully processed: Filter Coffee"}}
+[Supabase Listener] [EVENT] new_coin_detected: 🆕 Found 1 new coin(s) to process
+{"timestamp": "2025-06-30 22:47:20", "level": "INFO", "message": "[EVENT] new_coin_detected: 🆕 Found 1 new coin(s) to process", "service": "Supabase Listener", "data": {"raw_line": "🆕 Found 1 new coin(s) to process"}}
+[Supabase Listener] [EVENT] automation_start: 🔄 Processing coin: Ozan Güzel (OZAN)
+{"timestamp": "2025-06-30 22:47:20", "level": "INFO", "message": "[EVENT] automation_start: 🔄 Processing coin: Ozan Güzel (OZAN)", "service": "Supabase Listener", "data": {"raw_line": "🔄 Processing coin: Ozan Güzel (OZAN)"}}
+[Supabase Listener] [EVENT] automation_countdown: ⏱️  Starting in 5 seconds... (Switch to Moonshot app!)
+{"timestamp": "2025-06-30 22:47:21", "level": "DEBUG", "message": "[EVENT] automation_countdown: ⏱️  Starting in 5 seconds... (Switch to Moonshot app!)", "service": "Supabase Listener", "data": {"raw_line": "⏱️  Starting in 5 seconds... (Switch to Moonshot app!)"}}
+[Supabase Listener] [EVENT] automation_success: ✅ Successfully processed: Ozan Güzel
+{"timestamp": "2025-06-30 22:52:11", "level": "INFO", "message": "[EVENT] automation_success: ✅ Successfully processed: Ozan Güzel", "service": "Supabase Listener", "data": {"raw_line": "✅ Successfully processed: Ozan Güzel"}}
+[Supabase Listener] [EVENT] new_coin_detected: 🆕 Found 1 new coin(s) to process
+{"timestamp": "2025-06-30 22:52:11", "level": "INFO", "message": "[EVENT] new_coin_detected: 🆕 Found 1 new coin(s) to process", "service": "Supabase Listener", "data": {"raw_line": "🆕 Found 1 new coin(s) to process"}}
+[Supabase Listener] [EVENT] automation_start: 🔄 Processing coin: Filter Coffee (OLALA)
+{"timestamp": "2025-06-30 22:52:11", "level": "INFO", "message": "[EVENT] automation_start: 🔄 Processing coin: Filter Coffee (OLALA)", "service": "Supabase Listener", "data": {"raw_line": "🔄 Processing coin: Filter Coffee (OLALA)"}}
+[Supabase Listener] [EVENT] automation_countdown: ⏱️  Starting in 5 seconds... (Switch to Moonshot app!)
+{"timestamp": "2025-06-30 22:52:11", "level": "DEBUG", "message": "[EVENT] automation_countdown: ⏱️  Starting in 5 seconds... (Switch to Moonshot app!)", "service": "Supabase Listener", "data": {"raw_line": "⏱️  Starting in 5 seconds... (Switch to Moonshot app!)"}}
+
+🛑 Stopping all services...
+{"timestamp": "2025-06-30 22:52:28", "level": "INFO", "message": "\n🛑 Stopping all services...", "service": null, "data": {"reason": "user_interrupt"}}
+[Twitter Bot] ⏹️  Stopped: Twitter Bot
+{"timestamp": "2025-06-30 22:52:28", "level": "INFO", "message": "⏹️  Stopped: Twitter Bot", "service": "Twitter Bot", "data": {"pid": 16221}}
+[Queue Worker] ⏹️  Stopped: Queue Worker
+{"timestamp": "2025-06-30 22:52:28", "level": "INFO", "message": "⏹️  Stopped: Queue Worker", "service": "Queue Worker", "data": {"pid": 16222}}
+[Photo Sync] ⏹️  Stopped: Photo Sync
+{"timestamp": "2025-06-30 22:52:28", "level": "INFO", "message": "⏹️  Stopped: Photo Sync", "service": "Photo Sync", "data": {"pid": 16224}}
+[Supabase Listener] ⏹️  Stopped: Supabase Listener
+{"timestamp": "2025-06-30 22:52:28", "level": "INFO", "message": "⏹️  Stopped: Supabase Listener", "service": "Supabase Listener", "data": {"pid": 16227}}
+✅ All services stopped
+{"timestamp": "2025-06-30 22:52:28", "level": "INFO", "message": "✅ All services stopped", "service": null, "data": {"total_services": 4}}
+
+📊 SESSION SUMMARY
+==================================================
+Log files created in: /Users/baymak/Desktop/mshot6/moonshot_automation/logs
+- master.log: Important events only
+- detailed.log: All debug information
+- events.json: Structured event data
+- [service_name].log: Individual service logs
+🚀 MOONSHOT AUTOMATION SYSTEM
+==================================================
+📁 Logs will be saved to: /Users/baymak/Desktop/mshot6/moonshot_automation/logs
+
+🔧 Starting services...
+[Twitter Bot] ✅ Started: Twitter Bot
+{"timestamp": "2025-06-30 23:58:50", "level": "INFO", "message": "✅ Started: Twitter Bot", "service": "Twitter Bot", "data": {"pid": 20712, "command": "python3 scripts/services/twitter_bot.py"}}
+[Queue Worker] ✅ Started: Queue Worker
+{"timestamp": "2025-06-30 23:58:51", "level": "INFO", "message": "✅ Started: Queue Worker", "service": "Queue Worker", "data": {"pid": 20713, "command": "python3 scripts/services/queue_worker.py"}}
+[Photo Sync] ✅ Started: Photo Sync
+{"timestamp": "2025-06-30 23:58:52", "level": "INFO", "message": "✅ Started: Photo Sync", "service": "Photo Sync", "data": {"pid": 20714, "command": "python3 scripts/services/auto_photo_sync.py"}}
+[Supabase Listener] ✅ Started: Supabase Listener
+{"timestamp": "2025-06-30 23:58:53", "level": "INFO", "message": "✅ Started: Supabase Listener", "service": "Supabase Listener", "data": {"pid": 20716, "command": "python3 scripts/automation/supabase_listener_polling.py"}}
+
+✅ All 4 services started successfully!
+{"timestamp": "2025-06-30 23:58:54", "level": "INFO", "message": "\n✅ All 4 services started successfully!", "service": null, "data": {"services_started": 4}}
+
+📊 Monitoring all services... (Press Ctrl+C to stop all)
+
+[Supabase Listener] [EVENT] new_coin_detected: 🆕 Found 1 new coin(s) to process
+{"timestamp": "2025-07-01 00:00:40", "level": "INFO", "message": "[EVENT] new_coin_detected: 🆕 Found 1 new coin(s) to process", "service": "Supabase Listener", "data": {"raw_line": "🆕 Found 1 new coin(s) to process"}}
+[Supabase Listener] [EVENT] automation_start: 🔄 Processing coin: Filter Coffee (ASDASD)
+{"timestamp": "2025-07-01 00:00:41", "level": "INFO", "message": "[EVENT] automation_start: 🔄 Processing coin: Filter Coffee (ASDASD)", "service": "Supabase Listener", "data": {"raw_line": "🔄 Processing coin: Filter Coffee (ASDASD)"}}
+[Supabase Listener] [EVENT] automation_countdown: ⏱️  Starting in 5 seconds... (Switch to Moonshot app!)
+{"timestamp": "2025-07-01 00:00:41", "level": "DEBUG", "message": "[EVENT] automation_countdown: ⏱️  Starting in 5 seconds... (Switch to Moonshot app!)", "service": "Supabase Listener", "data": {"raw_line": "⏱️  Starting in 5 seconds... (Switch to Moonshot app!)"}}
+[Twitter Bot] [EVENT] api_rate_limit: Rate limit exceeded. Sleeping for 21 seconds.
+{"timestamp": "2025-07-01 00:02:59", "level": "WARNING", "message": "[EVENT] api_rate_limit: Rate limit exceeded. Sleeping for 21 seconds.", "service": "Twitter Bot", "data": {"raw_line": "Rate limit exceeded. Sleeping for 21 seconds."}}
+[Supabase Listener] [EVENT] automation_success: ✅ Successfully processed: Filter Coffee
+{"timestamp": "2025-07-01 00:03:04", "level": "INFO", "message": "[EVENT] automation_success: ✅ Successfully processed: Filter Coffee", "service": "Supabase Listener", "data": {"raw_line": "✅ Successfully processed: Filter Coffee"}}
+[Supabase Listener] [EVENT] new_coin_detected: 🆕 Found 1 new coin(s) to process
+{"timestamp": "2025-07-01 00:03:04", "level": "INFO", "message": "[EVENT] new_coin_detected: 🆕 Found 1 new coin(s) to process", "service": "Supabase Listener", "data": {"raw_line": "🆕 Found 1 new coin(s) to process"}}
+[Supabase Listener] [EVENT] automation_start: 🔄 Processing coin: Filter Coffee (ASDASD)
+{"timestamp": "2025-07-01 00:03:04", "level": "INFO", "message": "[EVENT] automation_start: 🔄 Processing coin: Filter Coffee (ASDASD)", "service": "Supabase Listener", "data": {"raw_line": "🔄 Processing coin: Filter Coffee (ASDASD)"}}
+[Supabase Listener] [EVENT] automation_countdown: ⏱️  Starting in 5 seconds... (Switch to Moonshot app!)
+{"timestamp": "2025-07-01 00:03:04", "level": "DEBUG", "message": "[EVENT] automation_countdown: ⏱️  Starting in 5 seconds... (Switch to Moonshot app!)", "service": "Supabase Listener", "data": {"raw_line": "⏱️  Starting in 5 seconds... (Switch to Moonshot app!)"}}
+[Supabase Listener] [EVENT] automation_success: ✅ Successfully processed: Filter Coffee
+{"timestamp": "2025-07-01 00:04:54", "level": "INFO", "message": "[EVENT] automation_success: ✅ Successfully processed: Filter Coffee", "service": "Supabase Listener", "data": {"raw_line": "✅ Successfully processed: Filter Coffee"}}
+[Supabase Listener] [EVENT] new_coin_detected: 🆕 Found 1 new coin(s) to process
+{"timestamp": "2025-07-01 00:04:54", "level": "INFO", "message": "[EVENT] new_coin_detected: 🆕 Found 1 new coin(s) to process", "service": "Supabase Listener", "data": {"raw_line": "🆕 Found 1 new coin(s) to process"}}
+[Supabase Listener] [EVENT] automation_start: 🔄 Processing coin: Filter Coffee (HGDFG)
+{"timestamp": "2025-07-01 00:04:54", "level": "INFO", "message": "[EVENT] automation_start: 🔄 Processing coin: Filter Coffee (HGDFG)", "service": "Supabase Listener", "data": {"raw_line": "🔄 Processing coin: Filter Coffee (HGDFG)"}}
+[Supabase Listener] [EVENT] automation_countdown: ⏱️  Starting in 5 seconds... (Switch to Moonshot app!)
+{"timestamp": "2025-07-01 00:04:54", "level": "DEBUG", "message": "[EVENT] automation_countdown: ⏱️  Starting in 5 seconds... (Switch to Moonshot app!)", "service": "Supabase Listener", "data": {"raw_line": "⏱️  Starting in 5 seconds... (Switch to Moonshot app!)"}}
+[Supabase Listener] [EVENT] automation_success: ✅ Successfully processed: Filter Coffee
+{"timestamp": "2025-07-01 00:06:44", "level": "INFO", "message": "[EVENT] automation_success: ✅ Successfully processed: Filter Coffee", "service": "Supabase Listener", "data": {"raw_line": "✅ Successfully processed: Filter Coffee"}}
+[Supabase Listener] [EVENT] new_coin_detected: 🆕 Found 1 new coin(s) to process
+{"timestamp": "2025-07-01 00:06:44", "level": "INFO", "message": "[EVENT] new_coin_detected: 🆕 Found 1 new coin(s) to process", "service": "Supabase Listener", "data": {"raw_line": "🆕 Found 1 new coin(s) to process"}}
+[Supabase Listener] [EVENT] automation_start: 🔄 Processing coin: Filter Coffee (DFGGGGG)
+{"timestamp": "2025-07-01 00:06:45", "level": "INFO", "message": "[EVENT] automation_start: 🔄 Processing coin: Filter Coffee (DFGGGGG)", "service": "Supabase Listener", "data": {"raw_line": "🔄 Processing coin: Filter Coffee (DFGGGGG)"}}
+[Supabase Listener] [EVENT] automation_countdown: ⏱️  Starting in 5 seconds... (Switch to Moonshot app!)
+{"timestamp": "2025-07-01 00:06:45", "level": "DEBUG", "message": "[EVENT] automation_countdown: ⏱️  Starting in 5 seconds... (Switch to Moonshot app!)", "service": "Supabase Listener", "data": {"raw_line": "⏱️  Starting in 5 seconds... (Switch to Moonshot app!)"}}
+
+🛑 Stopping all services...
+{"timestamp": "2025-07-01 00:07:32", "level": "INFO", "message": "\n🛑 Stopping all services...", "service": null, "data": {"reason": "user_interrupt"}}
+[Twitter Bot] ⏹️  Stopped: Twitter Bot
+{"timestamp": "2025-07-01 00:07:32", "level": "INFO", "message": "⏹️  Stopped: Twitter Bot", "service": "Twitter Bot", "data": {"pid": 20712}}
+[Queue Worker] ⏹️  Stopped: Queue Worker
+{"timestamp": "2025-07-01 00:07:32", "level": "INFO", "message": "⏹️  Stopped: Queue Worker", "service": "Queue Worker", "data": {"pid": 20713}}
+[Photo Sync] ⏹️  Stopped: Photo Sync
+{"timestamp": "2025-07-01 00:07:32", "level": "INFO", "message": "⏹️  Stopped: Photo Sync", "service": "Photo Sync", "data": {"pid": 20714}}
+[Supabase Listener] ⏹️  Stopped: Supabase Listener
+{"timestamp": "2025-07-01 00:07:32", "level": "INFO", "message": "⏹️  Stopped: Supabase Listener", "service": "Supabase Listener", "data": {"pid": 20716}}
+✅ All services stopped
+{"timestamp": "2025-07-01 00:07:32", "level": "INFO", "message": "✅ All services stopped", "service": null, "data": {"total_services": 4}}
+
+📊 SESSION SUMMARY
+==================================================
+Log files created in: /Users/baymak/Desktop/mshot6/moonshot_automation/logs
+- master.log: Important events only
+- detailed.log: All debug information
+- events.json: Structured event data
+- [service_name].log: Individual service logs
