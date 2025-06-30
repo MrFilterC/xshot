@@ -40,7 +40,7 @@ const CreateCoinModal = ({ onClose }) => {
   }
 
   const handleContinue = () => {
-    const tweetText = `Perfecto $${ticker.toUpperCase()} @memeXshot`
+    const tweetText = `@memexshot launch $${ticker.toUpperCase()}`
     const tweetUrl = `https://twitter.com/intent/tweet?text=${encodeURIComponent(tweetText)}`
     window.open(tweetUrl, '_blank')
     onClose()
@@ -215,7 +215,7 @@ const CreateCoinModal = ({ onClose }) => {
               <div className="bg-moonshot-accent/10 rounded-2xl p-4 mb-8 border border-moonshot-accent/20">
                 <p className="text-sm text-moonshot-primary/70 dark:text-white/70 mb-2">Your tweet:</p>
                 <p className="text-base font-mono text-moonshot-primary dark:text-white">
-                  Perfecto ${ticker} @memeXshot
+                  @memexshot launch ${ticker}
                 </p>
               </div>
 
